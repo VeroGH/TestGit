@@ -1,1 +1,2 @@
 this is my first text file
+but now it has changed
